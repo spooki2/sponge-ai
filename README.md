@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=XrYNB16SNQQ
 # How to use
 create an empty game object and add the AIThing script to it.
 
-insert the keys and stuff in the script's corresponding input boxes.
+insert the keys and stuff in the script's corresponding input bxoes.
 
 If you want the camera to follow the characters as they talk create a Cinemachine camera and call the characters gameobject's the same as they're called in the Generate method in AIThing.cs
 
